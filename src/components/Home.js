@@ -181,7 +181,7 @@ function Home() {
       <p class="card-text"> This project is a static CRUD operation project. in this project I Use HTML (for structure of the web page )
         and also use CSS (for designing of the web page ) in this project i use local storage data the benefit of this project we can store a
         data in our local Computers.also i use a javascript for (CREATE,READ ,UPDATE,DELETE).</p>
-      <a href="https://github.com/Ashh-khan" className="btn btn-primary">Go to github</a>
+      <a href="https://faizanansari88.github.io/JAVASCRIPT-CRUD/" className="btn btn-primary">Go to github</a>
     </div>
   </div>
 
